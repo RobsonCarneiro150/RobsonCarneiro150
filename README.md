@@ -1,6 +1,25 @@
-### Hi there 👋
+# Robson Carneiro
 
-👋 Hello! Welcome to my Github profile !
+Hello! 👋 I'm Robsn, a professional with a degree in Analysis and Systems Development, equipped with diverse programming skills. My expertise spans languages such as C#, C, C++, Python, and VBA, and I'm always eager to enhance my skill set.
+
+## Key Competencies
+- **Programming Languages:** C#, C, C++, Python, VBA
+- **Web Development:** ASP.NET
+- **SAP Tools:** Practical experience with the SAP ecosystem
+- **Microsoft Excel:** Advanced skills in automation, data analysis, and visualization
+
+## Featured Projects
+- [Project A: Brief description and link if applicable]
+- [Project B: Brief description and link if applicable]
+
+## Objective
+I'm actively seeking interesting challenges and opportunities to apply and refine my skills. Whether you're working on innovative projects or looking for collaboration in software development, I'm keen to contribute!
+
+## Contact
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- **Email:** [Your Email Address](mailto:your@email.com)
+
+Let's build 🚀
 
 <div>
 <a href="https://github.com/RobsonCarneiro150">
