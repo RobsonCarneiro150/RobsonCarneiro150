@@ -1,6 +1,6 @@
 # Robson Carneiro
 
-Hello! 👋 I'm Robsn, a professional with a degree in Analysis and Systems Development, equipped with diverse programming skills. My expertise spans languages such as C#, C, C++, Python, and VBA, and I'm always eager to enhance my skill set.
+Hello! 👋 I'm Robson, a professional with a degree in Analysis and Systems Development, equipped with diverse programming skills. My expertise spans languages such as C#, C, C++, Python, and VBA, and I'm always eager to enhance my skill set.
 
 ## Key Competencies
 - **Programming Languages:** C#, C, C++, Python, VBA
