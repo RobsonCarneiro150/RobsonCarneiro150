@@ -22,9 +22,8 @@ Let's build 🚀
 
 <div>
 <a href="https://github.com/RobsonCarneiro150">
-<!--<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonCarneiro150&layout=compact&langs_count=7&theme=default"/>-->
-  <!-- Esta é uma linha comentada no README -->
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RobsonCarneiro150&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<!--Linguagens--><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonCarneiro150&layout=compact&langs_count=7&theme=default"/>
+<!--Stats--><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RobsonCarneiro150&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 </div>
 
 <!--
