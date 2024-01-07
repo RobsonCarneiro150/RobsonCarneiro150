@@ -4,20 +4,19 @@ Hello! 👋 I'm Robsn, a professional with a degree in Analysis and Systems Deve
 
 ## Key Competencies
 - **Programming Languages:** C#, C, C++, Python, VBA
-- **Web Development:** ASP.NET
+- **Frameworks:** .NET
 - **SAP Tools:** Practical experience with the SAP ecosystem
 - **Microsoft Excel:** Advanced skills in automation, data analysis, and visualization
 
 ## Featured Projects
-- [Project A: Brief description and link if applicable]
-- [Project B: Brief description and link if applicable]
+- https://github.com/RobsonCarneiro150/Marketplace
+- https://github.com/RobsonCarneiro150/Cadastro-de-pacientes
 
 ## Objective
 I'm actively seeking interesting challenges and opportunities to apply and refine my skills. Whether you're working on innovative projects or looking for collaboration in software development, I'm keen to contribute!
 
 ## Contact
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **Email:** [Your Email Address](mailto:your@email.com)
+- **LinkedIn:** https://www.linkedin.com/in/robson-carneiro-163029205.
 
 Let's build 🚀
 
